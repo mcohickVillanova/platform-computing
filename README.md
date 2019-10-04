@@ -1,0 +1,1 @@
+This repository holds sample projects from CSC 2053 Platform-Based Computing at Villanova University.
